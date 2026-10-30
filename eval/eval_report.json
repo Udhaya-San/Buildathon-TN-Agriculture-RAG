@@ -1,0 +1,30 @@
+{
+  "run_at": "2026-10-30T06:25:09+00:00",
+  "summary": {
+    "questions": 27,
+    "in_scope": 24,
+    "hit_rate": 0.9583333333333334,
+    "mrr": 0.9097222222222222,
+    "top_k": 4,
+    "keyword_rate": 0.875,
+    "refusal_rate": 1.0
+  },
+  "index": {
+    "pdf_file": "TN_Agriculture_Schemes.pdf",
+    "pdf_sha256": "cab375fced345f8cc55f1d1d7e2749860735bf5119d2c4c656a09a280edd7f2f",
+    "pdf_pages": 182,
+    "indexed_pages": 103,
+    "chunks": 309,
+    "chunks_with_scheme_tag": 167,
+    "chunk_size": 800,
+    "chunk_overlap": 150,
+    "embedding_model": "text-embedding-3-small",
+    "built_at": "2026-10-30T06:23:08+00:00"
+  },
+  "settings": {
+    "top_k": 4,
+    "mmr_fetch_k": 20,
+    "mmr_lambda": 0.6,
+    "chat_model": "gpt-4o-mini"
+  }
+}

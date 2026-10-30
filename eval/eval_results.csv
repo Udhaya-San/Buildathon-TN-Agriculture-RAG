@@ -1,0 +1,37 @@
+id,question,out_of_scope,expected_pages,retrieved_pages,rr,keywords_ok,refused,answer
+1,How many village panchayats does KAVI-ADP cover?,False,[16],"[16, 89, 21, 134]",1.0,True,,"KAVI-ADP covers all the 12,524 village panchayats in Tamil Nadu. (Pages: 16)"
+2,What was the budget outlay when the CM Mannuyir Kaathu Mannuyir Kaappom Scheme was launched?,False,[22],"[22, 29, 145, 26]",1.0,True,,The budget outlay when the CM Mannuyir Kaathu Mannuyir Kaappom Scheme was launched was ₹ 206 crores. (Pages: 22)
+3,What is the age limit for main membership of the Chief Minister's Uzhavar Pathukappu Thittam?,False,[27],"[27, 26, 27, 107]",1.0,True,,"The age limit for main membership of the Chief Minister's Uzhavar Pathukappu Thittam is 18-65 years. (Pages: 26, 27)"
+4,What is the budget outlay of the special package to increase crop area and food grain production?,False,[38],"[38, 56, 96, 105]",1.0,True,,The budget outlay of the Special Package to Increase Crop Area and Food Grain Production is ₹ 160 crores. (Pages: 38)
+5,Which crops are covered in Tamil Nadu under the National Mission on Edible Oils?,False,[56],"[55, 133, 96, 135]",0.0,False,,Information not available in the Agriculture Schemes document.
+6,How many millet primary processing centres were established between 2024 and 2025?,False,[60],"[60, 105, 96, 59]",1.0,True,,"Under the scheme, 50 millet primary processing Centres were established between 2024 and 2025. (Pages: 60)"
+7,In how many districts is the National Horticulture Mission implemented in Tamil Nadu?,False,[61],"[59, 94, 61, 60]",0.3333333333333333,True,,The National Horticulture Mission (NHM) is implemented in 20 districts in Tamil Nadu. (Pages: 61)
+8,What is the eligible age for the agricultural machinery operator training and what is the fee?,False,[78],"[78, 77, 58, 77]",1.0,True,,"The eligible age for the agricultural machinery operator training is 18 to 35 years, with possible age relaxation up to 50 years. The training fee is free of cost. (Pages: 78)"
+9,How many Farmers Service Centres will the Chief Minister's Farmers Service Centre scheme set up?,False,[88],"[88, 106, 88, 14]",1.0,True,,"The Chief Minister's Farmers Service Centre scheme will set up 1,000 Farmers Service Centres in the State. (Pages: 88)"
+10,Which international certificates are issued under the Seed Testing Scheme?,False,[96],"[96, 8, 101, 95]",1.0,True,,International certificates (Orange and Blue ISTA certificates) are issued for export purposes under the Seed Testing Scheme. (Pages: 96)
+11,How many Value Addition Centres were announced in the 2025-26 agriculture budget?,False,[103],"[103, 22, 38, 42]",1.0,True,,"The scheme announced in the 2025-26 agriculture budget is the ""Establishment of 100 Value Addition Centers in Tamil Nadu."" (Pages: 103)"
+12,What is the interest rate on the pledge loan for traders?,False,[105],"[104, 105, 153, 107]",0.5,True,,The interest rate on the pledge loan for traders is 9%. (Pages: 105)
+13,How much World Bank loan was approved for the Tamil Nadu Irrigated Agriculture Modernization Project?,False,[107],"[107, 121, 119, 157]",1.0,True,,"The World Bank loan approved for the Tamil Nadu Irrigated Agriculture Modernization Project (TNIAMP) was US$ 318 million (approximately ₹2,200-3,000 crore). (Pages: 107)"
+14,How many hill farmers are covered under the Hill Farmers Development Scheme?,False,[134],"[134, 90, 10, 17]",1.0,True,,"The Hill Farmers Development Scheme covers 63,000 hill farmers. (Pages: 134)"
+15,What is the incentive cane price per ton for sugarcane in the 2024-25 season?,False,[136],"[136, 1, 41, 55]",1.0,False,,"The incentive cane price per ton for sugarcane in the 2024-25 season is ₹ 3,500. (Pages: 136)"
+16,What is the toll-free number for the Mobile Veterinary Unit?,False,[143],"[143, 83, 78, 167]",1.0,True,,The toll-free number for the Mobile Veterinary Unit (MVU) is 1962. (Pages: 143)
+17,What are the categories of the Gopal Ratna Award?,False,[177],"[177, 125, 13, 27]",1.0,True,,"The categories of the Gopal Ratna Award are:
+1. Best Dairy Farmer Rearing Indigenous Cattle/buffalo Breeds
+2. Best Artificial Insemination Technician (AIT)
+3. Best Dairy Cooperative/ Milk Producer Company/ Dairy Farmer Producer Organisation. (Pages: 177)"
+18,How much money was allocated for cage culture in inland reservoirs?,False,[157],"[157, 155, 73, 156]",1.0,True,,The Government of Tamil Nadu has allocated ₹11.08 crore under the Integrated Development of Reservoirs scheme to promote cage culture in inland reservoirs. (Pages: 157)
+19,What subsidy is given for coconut area expansion under the State Horticulture Development Scheme?,False,[135],"[135, 73, 73, 103]",1.0,True,,"The subsidy given for coconut area expansion under the State Horticulture Development Scheme (SHDS) is 50% or ₹ 12,000 per hectare per farmer for a maximum of 2 hectares per farmer. (Pages: 135)"
+20,What does the Group Accident Insurance Scheme for fishermen provide?,False,[30],"[30, 29, 153, 153]",1.0,False,,"The Group Accident Insurance Scheme (GAIS) provides the following insurance coverage for fishermen:
+
+i. Death or permanent total disability: ₹ 5,00,000.
+ii. Permanent partial disability: ₹ 2,50,000.
+iii. Hospitalization expenses: Up to ₹ 25,000. 
+
+(Pages: 30)"
+21,How many metric tonnes of certified seeds were distributed in 2024-25?,False,[97],"[97, 95, 49, 8]",1.0,True,,"About 10,630 MT of certified seeds of paddy, millets, pulses, and oilseeds have been distributed at subsidised cost during 2024-25 under the Sub-Mission of Seeds and Planting Materials scheme. (Pages: 97)"
+22,What is the size of the solar drying structures given to farmers?,False,[84],"[84, 122, 90, 83]",1.0,True,,The size of the solar drying structures given to farmers is between 400 to 1000 sq. feet. (Pages: 84)
+23,How much was allocated for the non-Delta special package in 2025-26?,False,[38],"[38, 125, 29, 134]",1.0,True,,The allocation for the non-Delta special package in 2025-26 was ₹ 102 crores. (Pages: 38)
+24,What is organic certification under the Organic Farming Promotion Scheme?,False,[58],"[58, 57, 107, 101]",1.0,True,,"Organic certification under the Organic Farming Promotion Scheme is provided to farmers who adopt organic farming practices. The certification process involves the receipt and scrutiny of applications, field inspections, and the issuance of organic certification. Any farmer wishing to undertake organic cultivation can register under this certification scheme, and all crops grown by these registered applicants are eligible to receive Organic Certification. The certification is granted for categories including Organic Crop Production, Organic Food Processing, and Organic Trade and Export Activities. (Pages: 57, 58)"
+25,Who won the 2011 cricket world cup?,True,[],"[38, 177, 167, 96]",,,True,Information not available in the Agriculture Schemes document.
+26,What is the price of gold today?,True,[],"[178, 96, 26, 54]",,,True,Information not available in the Agriculture Schemes document.
+27,How do I renew a driving licence in Bengaluru?,True,[],"[62, 96, 78, 95]",,,True,Information not available in the Agriculture Schemes document.

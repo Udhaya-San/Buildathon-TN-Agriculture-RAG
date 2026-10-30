@@ -1,0 +1,32 @@
+{
+  "description": "Hand-labelled test set. expected_pages are 1-based PDF page numbers where the answer is written; keywords must appear in a correct answer. Out-of-scope questions must get the not-available reply.",
+  "questions": [
+    {"id": 1, "question": "How many village panchayats does KAVI-ADP cover?", "expected_pages": [16], "keywords": ["12,524"]},
+    {"id": 2, "question": "What was the budget outlay when the CM Mannuyir Kaathu Mannuyir Kaappom Scheme was launched?", "expected_pages": [22], "keywords": ["206"]},
+    {"id": 3, "question": "What is the age limit for main membership of the Chief Minister's Uzhavar Pathukappu Thittam?", "expected_pages": [27], "keywords": ["18", "65"]},
+    {"id": 4, "question": "What is the budget outlay of the special package to increase crop area and food grain production?", "expected_pages": [38], "keywords": ["160"]},
+    {"id": 5, "question": "Which crops are covered in Tamil Nadu under the National Mission on Edible Oils?", "expected_pages": [56], "keywords": ["groundnut"]},
+    {"id": 6, "question": "How many millet primary processing centres were established between 2024 and 2025?", "expected_pages": [60], "keywords": ["50"]},
+    {"id": 7, "question": "In how many districts is the National Horticulture Mission implemented in Tamil Nadu?", "expected_pages": [61], "keywords": ["20"]},
+    {"id": 8, "question": "What is the eligible age for the agricultural machinery operator training and what is the fee?", "expected_pages": [78], "keywords": ["18", "free"]},
+    {"id": 9, "question": "How many Farmers Service Centres will the Chief Minister's Farmers Service Centre scheme set up?", "expected_pages": [88], "keywords": ["1,000"]},
+    {"id": 10, "question": "Which international certificates are issued under the Seed Testing Scheme?", "expected_pages": [96], "keywords": ["ISTA"]},
+    {"id": 11, "question": "How many Value Addition Centres were announced in the 2025-26 agriculture budget?", "expected_pages": [103], "keywords": ["100"]},
+    {"id": 12, "question": "What is the interest rate on the pledge loan for traders?", "expected_pages": [105], "keywords": ["9%"]},
+    {"id": 13, "question": "How much World Bank loan was approved for the Tamil Nadu Irrigated Agriculture Modernization Project?", "expected_pages": [107], "keywords": ["318"]},
+    {"id": 14, "question": "How many hill farmers are covered under the Hill Farmers Development Scheme?", "expected_pages": [134], "keywords": ["63,000"]},
+    {"id": 15, "question": "What is the incentive cane price per ton for sugarcane in the 2024-25 season?", "expected_pages": [136], "keywords": ["349"]},
+    {"id": 16, "question": "What is the toll-free number for the Mobile Veterinary Unit?", "expected_pages": [143], "keywords": ["1962"]},
+    {"id": 17, "question": "What are the categories of the Gopal Ratna Award?", "expected_pages": [177], "keywords": ["Artificial Insemination"]},
+    {"id": 18, "question": "How much money was allocated for cage culture in inland reservoirs?", "expected_pages": [157], "keywords": ["11.08"]},
+    {"id": 19, "question": "What subsidy is given for coconut area expansion under the State Horticulture Development Scheme?", "expected_pages": [135], "keywords": ["12,000"]},
+    {"id": 20, "question": "What does the Group Accident Insurance Scheme for fishermen provide?", "expected_pages": [30], "keywords": ["premium"]},
+    {"id": 21, "question": "How many metric tonnes of certified seeds were distributed in 2024-25?", "expected_pages": [97], "keywords": ["10,630"]},
+    {"id": 22, "question": "What is the size of the solar drying structures given to farmers?", "expected_pages": [84], "keywords": ["400"]},
+    {"id": 23, "question": "How much was allocated for the non-Delta special package in 2025-26?", "expected_pages": [38], "keywords": ["102"]},
+    {"id": 24, "question": "What is organic certification under the Organic Farming Promotion Scheme?", "expected_pages": [58], "keywords": ["certif"]},
+    {"id": 25, "question": "Who won the 2011 cricket world cup?", "expected_pages": [], "keywords": [], "out_of_scope": true},
+    {"id": 26, "question": "What is the price of gold today?", "expected_pages": [], "keywords": [], "out_of_scope": true},
+    {"id": 27, "question": "How do I renew a driving licence in Bengaluru?", "expected_pages": [], "keywords": [], "out_of_scope": true}
+  ]
+}
